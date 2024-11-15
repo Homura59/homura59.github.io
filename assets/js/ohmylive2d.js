@@ -1,5 +1,3 @@
-<script src="https://unpkg.com/oh-my-live2d@latest"></script>
-
 OML2D.loadOml2d({
   models: [
     {
