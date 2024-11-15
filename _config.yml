@@ -1,10 +1,10 @@
 title: homura                        # title of the site
 description: A Jekyll Theme          # description of the site
-url: https://professordeng.com       # domain
+url: https://homura59.github.io       # domain
 baseurl: "/"                   # root directory
 
 # Email address
-email: professordeng@qq.com
+email: homura59@gmail.com
 
 # Path of site resources
 img: /assets/img
@@ -27,7 +27,7 @@ paginate: 5
 # Comment system
 ## Docs: https://github.com/gitalk/gitalk/blob/master/readme.md
 gitalk:
-  enable: true 
+  enable: false 
   clientID: 6e42adfac0bf61e180f6
   clientSecret: d1ed44fc8888bbb2bcafb6bbc819ac9dddca5b71
   repo: simple
@@ -40,7 +40,7 @@ gitalk:
 
 # Google Analytics
 ## Docs: https://analytics.google.com/analytics/web/
-google-analytics: UA-165708741-1
+# google-analytics: UA-165708741-1
 
 # default layout of the articles in _post
 defaults:
