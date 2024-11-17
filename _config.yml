@@ -27,12 +27,12 @@ paginate: 5
 # Comment system
 ## Docs: https://github.com/gitalk/gitalk/blob/master/readme.md
 gitalk:
-  enable: true 
+  enable: false 
   clientID: 6e42adfac0bf61e180f6
   clientSecret: d1ed44fc8888bbb2bcafb6bbc819ac9dddca5b71
-  repo: simple
-  owner: professordeng
-  admin: professordeng
+  repo: homura59
+  owner: homura
+  admin: homura
   id: location.pathname      # The default is location.pathname
   title: homura   # Issue title
   body: homura
