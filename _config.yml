@@ -28,8 +28,8 @@ paginate: 5
 ## Docs: https://github.com/gitalk/gitalk/blob/master/readme.md
 gitalk:
   enable: false 
-  clientID: 6e42adfac0bf61e180f6
-  clientSecret: d1ed44fc8888bbb2bcafb6bbc819ac9dddca5b71
+  clientID: 
+  clientSecret: 
   repo: homura59
   owner: homura
   admin: homura
@@ -40,7 +40,7 @@ gitalk:
 
 # Google Analytics
 ## Docs: https://analytics.google.com/analytics/web/
-# google-analytics: UA-165708741-1
+# google-analytics: 
 
 # default layout of the articles in _post
 defaults:
