@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Web</title>
+    <link>https://example.org/</link>
+    <description>Recent content from My New Hugo Web</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>nvwaqaq@outlook.com (Homura)</managingEditor>
+    <webMaster>nvwaqaq@outlook.com (Homura)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Mon, 14 Jul 2025 23:41:12 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>第一篇文章TEST</title>
+      <link>https://example.org/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0test/</link>
+      <pubDate>Mon, 14 Jul 2025 23:41:12 &#43;0800</pubDate>
+      <author>nvwaqaq@outlook.com (Homura)</author>
+      <guid>https://example.org/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0test/</guid>
+      <description>
+        <![CDATA[<h1>第一篇文章TEST</h1><p>作者：Homura（nvwaqaq@outlook.com）</p>
+        
+          <p>测试一下文章怎么样</p>
+        
+        <hr><p>本文2025-07-14首发于<a href='https://example.org/'>My New Hugo Web</a>，最后修改于2025-07-14</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>Hello World</title>
+      <link>https://example.org/post/hello/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <author>nvwaqaq@outlook.com (Homura)</author>
+      <guid>https://example.org/post/hello/</guid>
+      <description>
+        <![CDATA[<h1>Hello World</h1><p>作者：Homura（nvwaqaq@outlook.com）</p>
+        
+          <p>💘 博麗 霊夢 💘</p>
+        
+        <hr><p>本文2023-03-15首发于<a href='https://example.org/'>My New Hugo Web</a>，最后修改于2023-03-15</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
+</rss>
