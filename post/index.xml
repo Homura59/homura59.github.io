@@ -12,7 +12,7 @@
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
-    <lastBuildDate>Mon, 14 Jul 2025 23:41:12 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 23:30:52 +0800</lastBuildDate>
     
     
     <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -22,15 +22,40 @@
     
 
     <item>
-      <title>第一篇文章TEST</title>
-      <link>https://example.org/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0test/</link>
+      <title>图片测试</title>
+      <link>https://example.org/post/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Fri, 18 Jul 2025 23:30:52 &#43;0800</pubDate>
+      <author>nvwaqaq@outlook.com (Homura)</author>
+      <guid>https://example.org/post/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</guid>
+      <description>
+        <![CDATA[<h1>图片测试</h1><p>作者：Homura（nvwaqaq@outlook.com）</p>
+        
+          <p><a href="https://imgse.com/i/pV34yWj"><img src="https://s21.ax1x.com/2025/07/18/pV34yWj.md.jpg" alt="pV34yWj.md.jpg"></a></p>
+        
+        <hr><p>本文2025-07-18首发于<a href='https://example.org/'>My New Hugo Web</a>，最后修改于2025-07-18</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>文章测试</title>
+      <link>https://example.org/post/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Mon, 14 Jul 2025 23:41:12 &#43;0800</pubDate>
       <author>nvwaqaq@outlook.com (Homura)</author>
-      <guid>https://example.org/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0test/</guid>
+      <guid>https://example.org/post/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</guid>
       <description>
-        <![CDATA[<h1>第一篇文章TEST</h1><p>作者：Homura（nvwaqaq@outlook.com）</p>
+        <![CDATA[<h1>文章测试</h1><p>作者：Homura（nvwaqaq@outlook.com）</p>
         
-          <p>测试一下文章怎么样</p>
+          <h2 id="标题">
+<a class="header-anchor" href="#%e6%a0%87%e9%a2%98"></a>
+<em><strong>标题</strong></em>
+</h2><p><em><strong>这是第一篇文章的测试内容。</strong></em></p>
+<h2 id="标题-1">
+<a class="header-anchor" href="#%e6%a0%87%e9%a2%98-1"></a>
+标题
+</h2><p>这是第一篇文章的测试内容。</p>
         
         <hr><p>本文2025-07-14首发于<a href='https://example.org/'>My New Hugo Web</a>，最后修改于2025-07-14</p>]]>
       </description>
